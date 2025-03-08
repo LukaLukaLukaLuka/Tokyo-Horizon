@@ -1,8 +1,8 @@
 {
 	"name": "Tokyo Horizon",
 	"colors": {
-		"editor.background": "#2c2335", // Perfect
-		"editor.foreground": "#ffd4ff", // Perfect
+		"editor.background": "#2c2335",
+		"editor.foreground": "#ffd4ff",
 		"activityBarBadge.background": "#ff4646",
 		"sideBarTitle.foreground": "#504c58",
 		"sideBar.background":"#271b2f",

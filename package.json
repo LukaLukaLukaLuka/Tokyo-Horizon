@@ -3,9 +3,11 @@
   "displayName": "Tokyo Horizon",
   "description": "A cozy purple-ish theme for your vscode.",
   "version": "0.0.1",
+  "publisher": "LukaL",
   "engines": {
     "vscode": "^1.98.0"
   },
+  "repository": "https://www.github.com/LukaLukaLukaLuka/Tokyo-Horizon",
   "categories": [
     "Themes"
   ],
