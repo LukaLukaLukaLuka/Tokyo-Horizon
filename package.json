@@ -21,7 +21,7 @@
       {
         "label": "Tokyo Horizon Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tokyo Horizon-color-theme.json"
+        "path": "./themes/Tokyo Horizon-color-theme-dark.json"
       }
     ],
     "configuration": {
